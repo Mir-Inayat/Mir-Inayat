@@ -15,7 +15,7 @@ I'm a **Full-Stack Developer** with a passion for **AI/ML** 🤖 and **Cybersecu
 - **Frontend:** React.js, HTML/CSS, JavaScript
 - **Backend:** Django, Flask, Node.js
 - **Database:** MySQL, MongoDB
-- **DevOps/Tools:** Docker, Git, AWS, Google Cloud
+- **DevOps/Tools:** Docker, Git, Google Cloud
 
 ## 📈 GitHub Stats
 ![Mir Inayat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mir-Inayat&show_icons=true&theme=radical)
