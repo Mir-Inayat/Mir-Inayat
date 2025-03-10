@@ -3,7 +3,7 @@
 I'm a **Full-Stack Developer** with a passion for **AI/ML** 🤖 and **Cybersecurity** 🔐. I love building cool, scalable apps, solving problems, and always learning new tech!
 
 ## 🌟 About Me
-- 🔭 I’m currently working on **Gigspace** – a freelancing platform with AI insights.
+- 🔭 I’m currently working on **Neopulse** – a health platform with AI insights and iot integration.
 - 🌱 I’m currently learning more about **Machine Learning** and **Blockchain**.
 - 👯 I’m looking to collaborate on **Open Source** projects.
 - 🤔 I’m looking for help with scaling AI-based web applications.
